@@ -1,0 +1,123 @@
+
+body{margin: 0%;
+    padding: 0%;
+    width: 100%;
+    height: 1700px;
+
+}
+.first-section{
+    display: flex;
+    width: 100%;
+    height: 450px;
+
+}
+.half-width{
+    width: 100%;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 15px;
+    
+}
+.half-width img{width:80%;
+     
+}
+.half-width p{width:70%;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+#text{ font-size: 15px;
+    font-weight: lighter;
+}
+#left-border{
+    border-left: solid 3px #eb4d4b;
+    border-radius: 2px;
+    padding-left: 8px;
+    
+}
+.title{font-family: 'Poppins', sans-serif;
+    font-weight:bolder;
+    font-size: 35px;
+   
+}
+.button{ text-decoration: none;
+    font-size: 10px;
+    font-weight: bold;
+    background-image: linear-gradient(#ff7979, #eb4d4b);
+    padding: 7px 10px;
+    border-radius: 8px;
+    color: gainsboro;
+
+}
+
+
+#in-2022{ text-shadow: 2px 2px rgb(48, 46, 46);
+    text-align: center;
+    color: #f6e58d;
+    font-size: 45px;
+}
+#in-2022 span{
+    color: #c7ecee;
+
+}
+#my{color:#81ecec ;
+
+}
+.middle{
+    display: flex;
+}
+.Mission img{ width: 50%;
+
+}
+.Mission{padding:15px 20px;
+    margin: 4%;
+    border-radius: 8px;
+    
+}
+#mission-backgra{
+    
+    background-color: #81ecec;
+}
+#vission-backgra{background-color:#f6e58d;
+
+}
+#goal-backgra{
+    background-color: #c7ecee;
+}
+
+.end{ display: flex;
+    width: 90%;
+    padding: 20px 30px;
+
+}
+.end img{ width: 65%;
+    margin: 5%;
+
+}
+#pro-pic{
+    margin-left: 150px;
+}
+.end-section{
+    height: 120px;
+    background: rgba(24, 24, 24, 0.993); 
+    
+    
+}
+.end-div{ text-align: center;
+    
+  padding-top:5px;
+ color: white;
+ 
+}
+ 
+
+#end-header{font-family: 'Signika', sans-serif;text-shadow: 2px 2px rgb(48, 46, 46);
+    font-weight: 700;
+    font-size:28px;
+    color: khaki;
+}
+#end{ 
+   
+   color:white;
+   font-family: 'Barlow Condensed', sans-serif;
+}
